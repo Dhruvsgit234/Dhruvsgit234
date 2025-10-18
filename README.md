@@ -17,4 +17,14 @@
 </p>
 
 
+<p align="center">
+  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=00FF00" />
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FFD43B" />
+  <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=00FF00" />
+  <img src="https://img.shields.io/badge/TailwindCSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=00FFFF" />
+</p>
+
+
+
 
