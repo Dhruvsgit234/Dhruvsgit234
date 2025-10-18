@@ -17,9 +17,6 @@
   <img src="https://activity-graph.vercel.app/graph?username=Dhruvsgit234&theme=night-rainbow"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dhruvsgit234&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-</p>
 
 
 
