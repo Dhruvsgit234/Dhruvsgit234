@@ -16,8 +16,5 @@
   <img src="https://raw.githubusercontent.com/Dhruvsgit234/Dhruvsgit234/main/profile-3d-contrib/profile-night-rainbow.svg" width="700" />
 </p>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=4000&color=00FFFF&center=true&vCenter=true&width=600&lines=Hey+I'm+Dhruv!;Full-Stack+Developer;AI+%26+ML+Explorer;Creating+Futuristic+Tech+⚡" />
-</h1>
 
 
