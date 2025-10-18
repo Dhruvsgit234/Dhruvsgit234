@@ -12,7 +12,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruvsgit234&layout=compact&theme=tokyonight&bg_color=000000&title_color=00FFFF" />
 </p>
 
-
 <p align="center">
   <img src="https://activity-graph.vercel.app/graph?username=Dhruvsgit234&theme=night-rainbow" width="700" style="filter: drop-shadow(2px 2px 6px #00FFFF);" />
 </p>
