@@ -11,10 +11,10 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruvsgit234&layout=compact&theme=tokyonight&bg_color=000000&title_color=00FFFF" />
 </p>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/Dhruvsgit234/Dhruvsgit234/main/profile-3d-contrib/profile-night-rainbow.svg" width="700" />
 </p>
+
 
 
 <p align="center">
