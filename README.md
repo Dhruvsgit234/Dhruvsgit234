@@ -25,6 +25,11 @@
   <img src="https://img.shields.io/badge/TailwindCSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=00FFFF" />
 </p>
 
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=novatorem&background_color=000000" width="450"/>
+</p>
+
+
 
 
 
