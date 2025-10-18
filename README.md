@@ -14,7 +14,7 @@
 
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Dhruvsgit234&theme=night-rainbow&hide_border=true" width="700"/>
+  <img src="https://activity-graph.vercel.app/graph?username=Dhruvsgit234&theme=night-rainbow"/>
 </p>
 
 
